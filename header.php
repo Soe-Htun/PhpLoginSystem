@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Login</title>
 </head>
 <body>
     <header>
         <nav>
             <div>
                 <a href="">
-                    <img src="image/login.png" alt="logo">
+                    <img src="image/login.jpg" alt="logo">
                 </a>
                 <ul>
                     <li><a href="index.php">Home</a></li>
